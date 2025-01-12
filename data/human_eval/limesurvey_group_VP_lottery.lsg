@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+ <LimeSurveyDocType>Group</LimeSurveyDocType>
+ <DBVersion>366</DBVersion>
+ <languages>
+  <language>de</language>
+  <language>en</language>
+ </languages>
+ <groups>
+  <fields>
+   <fieldname>gid</fieldname>
+   <fieldname>sid</fieldname>
+   <fieldname>group_name</fieldname>
+   <fieldname>group_order</fieldname>
+   <fieldname>description</fieldname>
+   <fieldname>language</fieldname>
+   <fieldname>randomization_group</fieldname>
+   <fieldname>grelevance</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <gid><![CDATA[101277]]></gid>
+    <sid><![CDATA[784121]]></sid>
+    <group_name><![CDATA[Teilnahme am Gewinnspiel oder Versuchspersonenstunden]]></group_name>
+    <group_order><![CDATA[4]]></group_order>
+    <description><![CDATA[<p>Falls Sie <strong>0.5</strong> Versuchspersonenstunden gutgeschrieben haben wollen, benötige ich lediglich Ihre E-Mail Adresse der Universität. Bitte klicken Sie unten 'Ich möchte 0.5 VP-Stunden erhalten.' und tragen Sie Ihre E-mail Adresse ein. Schicken Sie mir nach der Umfrage Ihren VP-Laufzettel an mwurch@uni-osnabrueck.de zu.</p>
+
+<p>Ihre angegebene E-Mail Adresse wird getrennt von allen anderen Angaben gespeichert und nach Abschluss der Umfrage gelöscht.</p>
+
+<p><strong>Informationen zum Gewinnspiel:</strong></p>
+
+<ul>
+	<li>Teilnahmeberechtigt sind Personen ab 18 Jahren.</li>
+	<li>Um am Gewinnspiel teilzunehmen müssen Sie dies bei der Frage 'Möchten Sie 0.5 VP-Stunden erhalten oder an der Verlosung der Guscheine teilnehmen?' bestätigen UND Ihre E-Mail Adresse unten angeben.</li>
+	<li>Die Teilnahme ist freiwillig und nicht an weitere Bedingungen geknüpft.</li>
+	<li>Ihre E-Mail-Adresse wird ausschließlich für die Benachrichtigung der Gewinnerinnen und Gewinner verwendet und nach Abschluss der Umfrage (spätestens am 20.01.2025) gelöscht.</li>
+	<li>Verlost werden 4x15€ digitale Gutscheine von "https://www.wunschgutschein.de/".</li>
+	<li>Die Gewinner*innen werden nach dem Zufallsprinzip ermittelt. Der Rechtsweg ist ausgeschlossen.</li>
+	<li>Die E-Mail-Adressen werden nach Abschluss des Gewinnspiels gelöscht.</li>
+	<li>Keine Barauszahlung der Gewinne.</li>
+</ul>
+]]></description>
+    <language><![CDATA[de]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+   <row>
+    <gid><![CDATA[101277]]></gid>
+    <sid><![CDATA[784121]]></sid>
+    <group_name><![CDATA[Participation in the lottery or test subject hours]]></group_name>
+    <group_order><![CDATA[4]]></group_order>
+    <description><![CDATA[<p>If you would like to receive <strong>0.5</strong> VP hours, I only need your university email address. Please click below 'I would like to receive 0.5 VP hours.' and enter your e-mail address. After completing the survey, please send your VP-sheet to mwurch@uni-osnabrueck.de.</p>
+
+<p>Your provided email address will be stored separately from all other information and deleted after the survey is completed.</p>
+
+<p><strong>Information about the lottery:</strong></p>
+
+<ul>
+	<li>Participation is open to individuals aged 18 and above.</li>
+	<li>To participate in the lottery, you must confirm this in the question 'Would you like to receive 0.5 VP hours or participate in the voucher lottery?' AND provide your email address below.</li>
+	<li>Participation is voluntary and not tied to any additional conditions.</li>
+	<li>Your email address will only be used to notify the winners and will be deleted after the survey is completed (no later than 20.01.2025).</li>
+	<li>Prizes include 4x15€ digital vouchers from "https://www.wunschgutschein.de/".</li>
+	<li>The winners will be selected randomly. Legal recourse is excluded.</li>
+	<li>Email addresses will be deleted after the lottery is completed.</li>
+	<li>No cash payout of the prizes.</li>
+</ul>
+]]></description>
+    <language><![CDATA[en]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+  </rows>
+ </groups>
+ <questions>
+  <fields>
+   <fieldname>qid</fieldname>
+   <fieldname>parent_qid</fieldname>
+   <fieldname>sid</fieldname>
+   <fieldname>gid</fieldname>
+   <fieldname>type</fieldname>
+   <fieldname>title</fieldname>
+   <fieldname>question</fieldname>
+   <fieldname>preg</fieldname>
+   <fieldname>help</fieldname>
+   <fieldname>other</fieldname>
+   <fieldname>mandatory</fieldname>
+   <fieldname>question_order</fieldname>
+   <fieldname>language</fieldname>
+   <fieldname>scale_id</fieldname>
+   <fieldname>same_default</fieldname>
+   <fieldname>relevance</fieldname>
+   <fieldname>modulename</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <qid><![CDATA[1070476]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[784121]]></sid>
+    <gid><![CDATA[101277]]></gid>
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[gsovp]]></title>
+    <question><![CDATA[Möchten Sie 0.5 VP-Stunden erhalten oder an der Verlosung der Gutscheine teilnehmen?]]></question>
+    <preg/>
+    <help><![CDATA[Dies ist keine Pflichtfrage, Sie können diese auch unbeantwortet lassen, bekommen dann jedoch keine VP-Stunden bzw. nehmen nicht am Gewinnspiel teil.]]></help>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1070476]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[784121]]></sid>
+    <gid><![CDATA[101277]]></gid>
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[gsovp]]></title>
+    <question><![CDATA[Would you like to receive 0.5 VP hours or participate in the voucher lottery?]]></question>
+    <preg/>
+    <help><![CDATA[This is not a compulsory question, you can leave it unanswered, but you will not receive any VP hours or take part in the lottery.]]></help>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1070477]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[784121]]></sid>
+    <gid><![CDATA[101277]]></gid>
+    <type><![CDATA[S]]></type>
+    <title><![CDATA[email]]></title>
+    <question><![CDATA[E-Mail:]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[!is_empty(gsovp)]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1070477]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[784121]]></sid>
+    <gid><![CDATA[101277]]></gid>
+    <type><![CDATA[S]]></type>
+    <title><![CDATA[email]]></title>
+    <question><![CDATA[E-Mail:]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[!is_empty(gsovp)]]></relevance>
+   </row>
+  </rows>
+ </questions>
+ <answers>
+  <fields>
+   <fieldname>qid</fieldname>
+   <fieldname>code</fieldname>
+   <fieldname>answer</fieldname>
+   <fieldname>sortorder</fieldname>
+   <fieldname>assessment_value</fieldname>
+   <fieldname>language</fieldname>
+   <fieldname>scale_id</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <qid><![CDATA[1070476]]></qid>
+    <code><![CDATA[A1]]></code>
+    <answer><![CDATA[Ich möchte 0.5 VP-Stunden erhalten.]]></answer>
+    <sortorder><![CDATA[1]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1070476]]></qid>
+    <code><![CDATA[A1]]></code>
+    <answer><![CDATA[I would like to receive 0.5 VP hours.]]></answer>
+    <sortorder><![CDATA[1]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1070476]]></qid>
+    <code><![CDATA[A2]]></code>
+    <answer><![CDATA[Ich bin mindestens 18 Jahre alt und möchte an dem Gewinnspiel teilnehmen.]]></answer>
+    <sortorder><![CDATA[2]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1070476]]></qid>
+    <code><![CDATA[A2]]></code>
+    <answer><![CDATA[I am at least 18 years old and would like to take part in the lottery.]]></answer>
+    <sortorder><![CDATA[2]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+  </rows>
+ </answers>
+</document>

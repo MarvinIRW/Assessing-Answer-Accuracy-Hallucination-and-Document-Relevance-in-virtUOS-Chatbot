@@ -1,0 +1,2523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+ <LimeSurveyDocType>Survey</LimeSurveyDocType>
+ <DBVersion>366</DBVersion>
+ <languages>
+  <language>en</language>
+  <language>de</language>
+ </languages>
+ <answers>
+  <fields>
+   <fieldname>qid</fieldname>
+   <fieldname>code</fieldname>
+   <fieldname>answer</fieldname>
+   <fieldname>sortorder</fieldname>
+   <fieldname>assessment_value</fieldname>
+   <fieldname>language</fieldname>
+   <fieldname>scale_id</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <qid><![CDATA[1054912]]></qid>
+    <code><![CDATA[A1]]></code>
+    <answer><![CDATA[School student (e.g., high school, secondary school)]]></answer>
+    <sortorder><![CDATA[1]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1054912]]></qid>
+    <code><![CDATA[A2]]></code>
+    <answer><![CDATA[School student intending to study at a university]]></answer>
+    <sortorder><![CDATA[2]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1054912]]></qid>
+    <code><![CDATA[A3]]></code>
+    <answer><![CDATA[Prospective student (not currently a school student, but planning to study)]]></answer>
+    <sortorder><![CDATA[3]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1054912]]></qid>
+    <code><![CDATA[A4]]></code>
+    <answer><![CDATA[University student (enrolled in a university program)]]></answer>
+    <sortorder><![CDATA[4]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1054912]]></qid>
+    <code><![CDATA[A5]]></code>
+    <answer><![CDATA[International student (studying outside your home country)]]></answer>
+    <sortorder><![CDATA[5]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1054912]]></qid>
+    <code><![CDATA[A6]]></code>
+    <answer><![CDATA[Alumni (former university student)]]></answer>
+    <sortorder><![CDATA[6]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1054912]]></qid>
+    <code><![CDATA[A7]]></code>
+    <answer><![CDATA[None of the above]]></answer>
+    <sortorder><![CDATA[7]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1054912]]></qid>
+    <code><![CDATA[A8]]></code>
+    <answer><![CDATA[I prefer not to answer]]></answer>
+    <sortorder><![CDATA[8]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1054911]]></qid>
+    <code><![CDATA[A1]]></code>
+    <answer><![CDATA[No formal education]]></answer>
+    <sortorder><![CDATA[1]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1054911]]></qid>
+    <code><![CDATA[A10]]></code>
+    <answer><![CDATA[I prefer not to answer]]></answer>
+    <sortorder><![CDATA[9]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1054911]]></qid>
+    <code><![CDATA[A2]]></code>
+    <answer><![CDATA[Secondary school diploma (e.g., intermediate school certificate)]]></answer>
+    <sortorder><![CDATA[2]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1054911]]></qid>
+    <code><![CDATA[A3]]></code>
+    <answer><![CDATA[Vocational or technical training]]></answer>
+    <sortorder><![CDATA[3]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1054911]]></qid>
+    <code><![CDATA[A4]]></code>
+    <answer><![CDATA[University entrance qualification (e.g., high school diploma, Abitur)]]></answer>
+    <sortorder><![CDATA[4]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1054911]]></qid>
+    <code><![CDATA[A5]]></code>
+    <answer><![CDATA[Bachelor's degree or equivalent]]></answer>
+    <sortorder><![CDATA[5]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1054911]]></qid>
+    <code><![CDATA[A6]]></code>
+    <answer><![CDATA[Master's degree or equivalent]]></answer>
+    <sortorder><![CDATA[6]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1054911]]></qid>
+    <code><![CDATA[A7]]></code>
+    <answer><![CDATA[Higher academic qualification]]></answer>
+    <sortorder><![CDATA[7]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1054911]]></qid>
+    <code><![CDATA[A8]]></code>
+    <answer><![CDATA[None of the above]]></answer>
+    <sortorder><![CDATA[8]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1054909]]></qid>
+    <code><![CDATA[A1]]></code>
+    <answer><![CDATA[Under 18]]></answer>
+    <sortorder><![CDATA[1]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1054909]]></qid>
+    <code><![CDATA[A2]]></code>
+    <answer><![CDATA[18-24]]></answer>
+    <sortorder><![CDATA[2]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1054909]]></qid>
+    <code><![CDATA[A3]]></code>
+    <answer><![CDATA[25-34]]></answer>
+    <sortorder><![CDATA[3]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1054909]]></qid>
+    <code><![CDATA[A4]]></code>
+    <answer><![CDATA[35-44]]></answer>
+    <sortorder><![CDATA[4]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1054909]]></qid>
+    <code><![CDATA[A5]]></code>
+    <answer><![CDATA[45-54]]></answer>
+    <sortorder><![CDATA[5]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1054909]]></qid>
+    <code><![CDATA[A6]]></code>
+    <answer><![CDATA[55-64]]></answer>
+    <sortorder><![CDATA[6]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1054909]]></qid>
+    <code><![CDATA[A7]]></code>
+    <answer><![CDATA[65 or older]]></answer>
+    <sortorder><![CDATA[7]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1054909]]></qid>
+    <code><![CDATA[A8]]></code>
+    <answer><![CDATA[I prefer not to answer]]></answer>
+    <sortorder><![CDATA[8]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1054937]]></qid>
+    <code><![CDATA[A1]]></code>
+    <answer><![CDATA[Sehr schlecht]]></answer>
+    <sortorder><![CDATA[1]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1054937]]></qid>
+    <code><![CDATA[A2]]></code>
+    <answer><![CDATA[Schlecht]]></answer>
+    <sortorder><![CDATA[2]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1054937]]></qid>
+    <code><![CDATA[A3]]></code>
+    <answer><![CDATA[Neutral]]></answer>
+    <sortorder><![CDATA[3]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1054937]]></qid>
+    <code><![CDATA[A4]]></code>
+    <answer><![CDATA[Gut]]></answer>
+    <sortorder><![CDATA[4]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1054937]]></qid>
+    <code><![CDATA[A5]]></code>
+    <answer><![CDATA[Sehr gut]]></answer>
+    <sortorder><![CDATA[5]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1054914]]></qid>
+    <code><![CDATA[A1]]></code>
+    <answer><![CDATA[Sehr vertraut – Ich nutze Chatbots häufig]]></answer>
+    <sortorder><![CDATA[1]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1054914]]></qid>
+    <code><![CDATA[A2]]></code>
+    <answer><![CDATA[Vertraut – Ich nutze Chatbots gelegentlich]]></answer>
+    <sortorder><![CDATA[2]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1054914]]></qid>
+    <code><![CDATA[A3]]></code>
+    <answer><![CDATA[Neutral – Ich habe etwas Erfahrung mit Chatbots]]></answer>
+    <sortorder><![CDATA[3]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1054914]]></qid>
+    <code><![CDATA[A4]]></code>
+    <answer><![CDATA[Wenig vertraut – Ich habe begrenzte Erfahrung mit Chatbots]]></answer>
+    <sortorder><![CDATA[4]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1054914]]></qid>
+    <code><![CDATA[A5]]></code>
+    <answer><![CDATA[Gar nicht vertraut – Ich habe noch nie einen Chatbot genutzt]]></answer>
+    <sortorder><![CDATA[5]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1054914]]></qid>
+    <code><![CDATA[A6]]></code>
+    <answer><![CDATA[Möchte ich nicht beantworten]]></answer>
+    <sortorder><![CDATA[6]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1054912]]></qid>
+    <code><![CDATA[A1]]></code>
+    <answer><![CDATA[Schüler*in (z. B. Sekundarstufe, Gymnasium)]]></answer>
+    <sortorder><![CDATA[1]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1054912]]></qid>
+    <code><![CDATA[A2]]></code>
+    <answer><![CDATA[Schüler*in mit der Absicht, ein Studium aufzunehmen]]></answer>
+    <sortorder><![CDATA[2]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1054912]]></qid>
+    <code><![CDATA[A3]]></code>
+    <answer><![CDATA[Studieninteressierte (aktuell kein Schüler/keine Schülerin, aber mit Studienabsicht)]]></answer>
+    <sortorder><![CDATA[3]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1054912]]></qid>
+    <code><![CDATA[A4]]></code>
+    <answer><![CDATA[Universitätsstudent*in (in einem Studienprogramm eingeschrieben)]]></answer>
+    <sortorder><![CDATA[4]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1054912]]></qid>
+    <code><![CDATA[A5]]></code>
+    <answer><![CDATA[internationaler Student / internationale Studentin (Studium außerhalb des Heimatlandes)]]></answer>
+    <sortorder><![CDATA[5]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1054912]]></qid>
+    <code><![CDATA[A6]]></code>
+    <answer><![CDATA[Alumni (ehemalige*r Universitätsstudent*in)]]></answer>
+    <sortorder><![CDATA[6]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1054912]]></qid>
+    <code><![CDATA[A7]]></code>
+    <answer><![CDATA[Keine der oben genannten Optionen]]></answer>
+    <sortorder><![CDATA[7]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1054912]]></qid>
+    <code><![CDATA[A8]]></code>
+    <answer><![CDATA[Möchte ich nicht beantworten]]></answer>
+    <sortorder><![CDATA[8]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1054910]]></qid>
+    <code><![CDATA[A1]]></code>
+    <answer><![CDATA[Männlich]]></answer>
+    <sortorder><![CDATA[1]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1054910]]></qid>
+    <code><![CDATA[A2]]></code>
+    <answer><![CDATA[Weiblich]]></answer>
+    <sortorder><![CDATA[2]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1054910]]></qid>
+    <code><![CDATA[A3]]></code>
+    <answer><![CDATA[Möchte ich nicht beantworten]]></answer>
+    <sortorder><![CDATA[3]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1054910]]></qid>
+    <code><![CDATA[A1]]></code>
+    <answer><![CDATA[Male]]></answer>
+    <sortorder><![CDATA[1]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1054910]]></qid>
+    <code><![CDATA[A2]]></code>
+    <answer><![CDATA[Female]]></answer>
+    <sortorder><![CDATA[2]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1054910]]></qid>
+    <code><![CDATA[A3]]></code>
+    <answer><![CDATA[I prefer not to answer]]></answer>
+    <sortorder><![CDATA[3]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1054911]]></qid>
+    <code><![CDATA[A1]]></code>
+    <answer><![CDATA[Keine formale Bildung]]></answer>
+    <sortorder><![CDATA[1]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1054911]]></qid>
+    <code><![CDATA[A10]]></code>
+    <answer><![CDATA[Möchte ich nicht beantworten]]></answer>
+    <sortorder><![CDATA[9]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1054911]]></qid>
+    <code><![CDATA[A2]]></code>
+    <answer><![CDATA[Sekundarabschluss (z. B. Realschulabschluss, Hauptschulabschluss)]]></answer>
+    <sortorder><![CDATA[2]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1054911]]></qid>
+    <code><![CDATA[A3]]></code>
+    <answer><![CDATA[Berufsausbildung oder technische/fachliche Ausbildung]]></answer>
+    <sortorder><![CDATA[3]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1054911]]></qid>
+    <code><![CDATA[A4]]></code>
+    <answer><![CDATA[Hochschulreife (z. B. Abitur, Fachabitur)]]></answer>
+    <sortorder><![CDATA[4]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1054911]]></qid>
+    <code><![CDATA[A5]]></code>
+    <answer><![CDATA[Bachelor-Abschluss oder gleichwertiger Abschluss]]></answer>
+    <sortorder><![CDATA[5]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1054911]]></qid>
+    <code><![CDATA[A6]]></code>
+    <answer><![CDATA[Master-Abschluss oder gleichwertiger Abschluss]]></answer>
+    <sortorder><![CDATA[6]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1054911]]></qid>
+    <code><![CDATA[A7]]></code>
+    <answer><![CDATA[Höherer akademischer Abschluss]]></answer>
+    <sortorder><![CDATA[7]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1054911]]></qid>
+    <code><![CDATA[A8]]></code>
+    <answer><![CDATA[Keiner der oben genannten Optionen]]></answer>
+    <sortorder><![CDATA[8]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1054909]]></qid>
+    <code><![CDATA[A1]]></code>
+    <answer><![CDATA[18 oder jünger]]></answer>
+    <sortorder><![CDATA[1]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1054909]]></qid>
+    <code><![CDATA[A2]]></code>
+    <answer><![CDATA[18-24]]></answer>
+    <sortorder><![CDATA[2]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1054909]]></qid>
+    <code><![CDATA[A3]]></code>
+    <answer><![CDATA[25-34]]></answer>
+    <sortorder><![CDATA[3]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1054909]]></qid>
+    <code><![CDATA[A4]]></code>
+    <answer><![CDATA[35-44]]></answer>
+    <sortorder><![CDATA[4]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1054909]]></qid>
+    <code><![CDATA[A5]]></code>
+    <answer><![CDATA[45-54]]></answer>
+    <sortorder><![CDATA[5]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1054909]]></qid>
+    <code><![CDATA[A6]]></code>
+    <answer><![CDATA[55-64]]></answer>
+    <sortorder><![CDATA[6]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1054909]]></qid>
+    <code><![CDATA[A7]]></code>
+    <answer><![CDATA[65 oder älter]]></answer>
+    <sortorder><![CDATA[7]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1054909]]></qid>
+    <code><![CDATA[A8]]></code>
+    <answer><![CDATA[Möchte ich nicht beantworten]]></answer>
+    <sortorder><![CDATA[8]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1054914]]></qid>
+    <code><![CDATA[A1]]></code>
+    <answer><![CDATA[Very familiar – I use chatbots frequently]]></answer>
+    <sortorder><![CDATA[1]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1054914]]></qid>
+    <code><![CDATA[A2]]></code>
+    <answer><![CDATA[Familiar – I use chatbots occasionally]]></answer>
+    <sortorder><![CDATA[2]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1054914]]></qid>
+    <code><![CDATA[A3]]></code>
+    <answer><![CDATA[Neutral – I have some experience with chatbots]]></answer>
+    <sortorder><![CDATA[3]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1054914]]></qid>
+    <code><![CDATA[A4]]></code>
+    <answer><![CDATA[Unfamiliar – I have limited experience with chatbots]]></answer>
+    <sortorder><![CDATA[4]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1054914]]></qid>
+    <code><![CDATA[A5]]></code>
+    <answer><![CDATA[Not at all familiar – I have never used a chatbot]]></answer>
+    <sortorder><![CDATA[5]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1054914]]></qid>
+    <code><![CDATA[A6]]></code>
+    <answer><![CDATA[I prefer not to answer]]></answer>
+    <sortorder><![CDATA[6]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1054937]]></qid>
+    <code><![CDATA[A1]]></code>
+    <answer><![CDATA[Very bad]]></answer>
+    <sortorder><![CDATA[1]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1054937]]></qid>
+    <code><![CDATA[A2]]></code>
+    <answer><![CDATA[Bad]]></answer>
+    <sortorder><![CDATA[2]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1054937]]></qid>
+    <code><![CDATA[A3]]></code>
+    <answer><![CDATA[Neutral]]></answer>
+    <sortorder><![CDATA[3]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1054937]]></qid>
+    <code><![CDATA[A4]]></code>
+    <answer><![CDATA[Good]]></answer>
+    <sortorder><![CDATA[4]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1054937]]></qid>
+    <code><![CDATA[A5]]></code>
+    <answer><![CDATA[Very good]]></answer>
+    <sortorder><![CDATA[5]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1060903]]></qid>
+    <code><![CDATA[A1]]></code>
+    <answer><![CDATA[Ja, ich kann beide Sprachen verstehen.]]></answer>
+    <sortorder><![CDATA[1]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1060903]]></qid>
+    <code><![CDATA[A2]]></code>
+    <answer><![CDATA[Nein.]]></answer>
+    <sortorder><![CDATA[2]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1060903]]></qid>
+    <code><![CDATA[A1]]></code>
+    <answer><![CDATA[Yes, I can understand both languages]]></answer>
+    <sortorder><![CDATA[1]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1060903]]></qid>
+    <code><![CDATA[A2]]></code>
+    <answer><![CDATA[No.]]></answer>
+    <sortorder><![CDATA[2]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+  </rows>
+ </answers>
+ <groups>
+  <fields>
+   <fieldname>gid</fieldname>
+   <fieldname>sid</fieldname>
+   <fieldname>group_name</fieldname>
+   <fieldname>group_order</fieldname>
+   <fieldname>description</fieldname>
+   <fieldname>language</fieldname>
+   <fieldname>randomization_group</fieldname>
+   <fieldname>grelevance</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <gid><![CDATA[99595]]></gid>
+    <sid><![CDATA[784121]]></sid>
+    <group_name><![CDATA[Demographic Data]]></group_name>
+    <group_order><![CDATA[1]]></group_order>
+    <description><![CDATA[<strong>Purpose of These Questions</strong><br />The following questions are designed to help better understand the diversity of perspectives represented in this survey. Your responses will remain confidential and will only be used to analyze patterns and trends within the collected data. While answering these questions is optional, providing your responses would be extremely helpful for gaining valuable insights. If you are uncomfortable responding, you may select "I prefer not to answer."]]></description>
+    <language><![CDATA[en]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+   <row>
+    <gid><![CDATA[99595]]></gid>
+    <sid><![CDATA[784121]]></sid>
+    <group_name><![CDATA[Demografische Daten]]></group_name>
+    <group_order><![CDATA[1]]></group_order>
+    <description><![CDATA[<p><strong>Warum diese Fragen gestellt werden</strong><br />Die folgenden Fragen sollen dazu beitragen, die Vielfalt der Perspektiven in dieser Umfrage besser zu verstehen. Ihre Antworten bleiben vertraulich und werden ausschließlich verwendet, um Muster und Trends in den gesammelten Daten zu analysieren. Obwohl die Beantwortung dieser Fragen optional ist, wären Ihre Antworten äußerst hilfreich, um wertvolle Einblicke zu gewinnen. Wenn Sie sich unwohl fühlen, können Sie die Option "Möchte ich nicht beantworten" wählen.</p>
+]]></description>
+    <language><![CDATA[de]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+   <row>
+    <gid><![CDATA[99598]]></gid>
+    <sid><![CDATA[784121]]></sid>
+    <group_name><![CDATA[Task Description]]></group_name>
+    <group_order><![CDATA[2]]></group_order>
+    <description/>
+    <language><![CDATA[de]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+   <row>
+    <gid><![CDATA[99598]]></gid>
+    <sid><![CDATA[784121]]></sid>
+    <group_name><![CDATA[Task Description]]></group_name>
+    <group_order><![CDATA[2]]></group_order>
+    <description/>
+    <language><![CDATA[en]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+   <row>
+    <gid><![CDATA[99600]]></gid>
+    <sid><![CDATA[784121]]></sid>
+    <group_name><![CDATA[Chatbot Antworten bewerten:]]></group_name>
+    <group_order><![CDATA[3]]></group_order>
+    <description><![CDATA[<p><strong>Frage:</strong></p>
+
+<p>PLACEHOLDER_QUESTION_1</p>
+
+<hr />
+<p><strong>Antwort:</strong></p>
+
+<p>PLACEHOLDER_ANSWER_1</p>
+
+<hr />
+<p><strong>Verwendeter Kontext:</strong></p>
+
+<p>Der Chatbot hat die folgenden Quellen genutzt, um seine Antwort zu generieren. Bitte besuchen Sie diese Webseiten und bewerten Sie die Kontextqualität ausschließlich anhand der bereitgestellten Links:</p>
+
+<p>PLACEHOLDER_CONTEXT_1</p>
+
+<p><strong>Hinweis:</strong> Bewerten Sie den Kontext nur basierend auf den Informationen, die in diesen Links verfügbar sind. Externe Quellen sollten für diese Bewertung nicht herangezogen werden. Falls kein Kontext bereitgestellt wird, bewerten Sie den Einfluss des fehlenden Kontextes auf die Qualität der Antwort.</p>
+]]></description>
+    <language><![CDATA[de]]></language>
+    <randomization_group><![CDATA[question-answer]]></randomization_group>
+    <grelevance><![CDATA[randomgroup==1]]></grelevance>
+   </row>
+   <row>
+    <gid><![CDATA[99600]]></gid>
+    <sid><![CDATA[784121]]></sid>
+    <group_name><![CDATA[Rate chatbot answers:]]></group_name>
+    <group_order><![CDATA[3]]></group_order>
+    <description><![CDATA[<p><strong>Question:</strong></p>
+
+<p>PLACEHOLDER_QUESTION_1</p>
+
+<hr />
+<p><strong>Answer:</strong></p>
+
+<p>PLACEHOLDER_ANSWER_1</p>
+
+<hr />
+<p><strong>Context used:</strong></p>
+
+<p>The chatbot used the following sources to generate its response. Please visit these websites and evaluate the quality of the context based solely on the provided links:</p>
+
+<p>PLACEHOLDER_CONTEXT_1</p>
+
+<p><strong>Note:</strong> Only evaluate the context based on the information available from these links. External sources should not be used for this evaluation. If no context is provided, assess the impact of its absence on the answer's quality.</p>
+]]></description>
+    <language><![CDATA[en]]></language>
+    <randomization_group><![CDATA[question-answer]]></randomization_group>
+    <grelevance><![CDATA[randomgroup==1]]></grelevance>
+   </row>
+   <row>
+    <gid><![CDATA[99784]]></gid>
+    <sid><![CDATA[784121]]></sid>
+    <group_name/>
+    <group_order><![CDATA[0]]></group_order>
+    <description><![CDATA[<div style="font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; padding: 20px; border: 1px solid #ccc; border-radius: 10px; background-color: #f9f9f9;">
+<h3 style="margin-top: 0; text-align: center;">Sprachkenntnis</h3>
+
+<p>Bevor Sie mit der Umfrage beginnen möchte ich sicherstellen, dass alle Teilnehmenden den Inhalt der Fragen und Antworten vollständig verstehen können. Da diese Umfrage Fragen-Antwort-Paare in deutscher und englischer Sprache enthält ist es wichtig, dass Sie beide Sprachen verstehen können.</p>
+
+<p>Bitte bestätigen Sie, dass Sie sowohl Deutsch als auch Englisch verstehen, um mit der Umfrage fortzufahren. Sollten Sie dies nicht können, ist eine Teilnahme leider nicht möglich. Vielen Dank für Ihr Verständnis!</p>
+</div>
+]]></description>
+    <language><![CDATA[de]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+   <row>
+    <gid><![CDATA[99784]]></gid>
+    <sid><![CDATA[784121]]></sid>
+    <group_name/>
+    <group_order><![CDATA[0]]></group_order>
+    <description><![CDATA[<div style="font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; padding: 20px; border: 1px solid #ccc; border-radius: 10px; background-color: #f9f9f9;">
+<h3 style="margin-top: 0; text-align: center;">Language Proficiency</h3>
+
+<p>Before starting the survey I need to ensure that all participants can fully comprehend the content of the questions and answers. As this survey includes question-answer pairs in both English and German, it is important that you can understand both languages.</p>
+
+<p>Please confirm your ability to understand both English and German to proceed with the survey. If you are unable to do so, you will not be able to continue. We appreciate your understanding!</p>
+</div>
+]]></description>
+    <language><![CDATA[en]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+  </rows>
+ </groups>
+ <questions>
+  <fields>
+   <fieldname>qid</fieldname>
+   <fieldname>parent_qid</fieldname>
+   <fieldname>sid</fieldname>
+   <fieldname>gid</fieldname>
+   <fieldname>type</fieldname>
+   <fieldname>title</fieldname>
+   <fieldname>question</fieldname>
+   <fieldname>preg</fieldname>
+   <fieldname>help</fieldname>
+   <fieldname>other</fieldname>
+   <fieldname>mandatory</fieldname>
+   <fieldname>question_order</fieldname>
+   <fieldname>language</fieldname>
+   <fieldname>scale_id</fieldname>
+   <fieldname>same_default</fieldname>
+   <fieldname>relevance</fieldname>
+   <fieldname>modulename</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <qid><![CDATA[1054909]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[784121]]></sid>
+    <gid><![CDATA[99595]]></gid>
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[age]]></title>
+    <question><![CDATA[Please select your age group:]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1054909]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[784121]]></sid>
+    <gid><![CDATA[99595]]></gid>
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[age]]></title>
+    <question><![CDATA[Bitte wählen Sie Ihre Altersgruppe aus:]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1054910]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[784121]]></sid>
+    <gid><![CDATA[99595]]></gid>
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[gender]]></title>
+    <question><![CDATA[Wie würden Sie Ihr Geschlecht beschreiben?]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[Y]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1054910]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[784121]]></sid>
+    <gid><![CDATA[99595]]></gid>
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[gender]]></title>
+    <question><![CDATA[How do you describe your gender?]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[Y]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1054911]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[784121]]></sid>
+    <gid><![CDATA[99595]]></gid>
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[educationlevel]]></title>
+    <question><![CDATA[What is the highest level of education you have completed?]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1054911]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[784121]]></sid>
+    <gid><![CDATA[99595]]></gid>
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[educationlevel]]></title>
+    <question><![CDATA[Was ist Ihr höchster abgeschlossener Bildungsabschluss?]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1054912]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[784121]]></sid>
+    <gid><![CDATA[99595]]></gid>
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[educationstatus]]></title>
+    <question><![CDATA[Which of the following best describes your current status?]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[4]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1054912]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[784121]]></sid>
+    <gid><![CDATA[99595]]></gid>
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[educationstatus]]></title>
+    <question><![CDATA[<p style="margin-bottom:11px">Welche der folgenden Aussagen beschreibt Ihren aktuellen Status am besten?</p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[4]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1054913]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[784121]]></sid>
+    <gid><![CDATA[99595]]></gid>
+    <type><![CDATA[S]]></type>
+    <title><![CDATA[program]]></title>
+    <question><![CDATA[Was ist Ihr aktuelles Studienprogramm oder Studienfach?<br />(Bitte geben Sie den vollständigen Namen Ihres Studienprogramms an. Falls nicht zutreffend, lassen Sie das Feld leer)]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[5]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1054913]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[784121]]></sid>
+    <gid><![CDATA[99595]]></gid>
+    <type><![CDATA[S]]></type>
+    <title><![CDATA[program]]></title>
+    <question><![CDATA[What is your current study program or field of study?<br />(Please write the full name of your study program. If not applicable, leave the field blank)]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[5]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1054914]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[784121]]></sid>
+    <gid><![CDATA[99595]]></gid>
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[familiar]]></title>
+    <question><![CDATA[Wie vertraut sind Sie allgemein mit der Nutzung von Chatbots?]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[6]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[1054914]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[784121]]></sid>
+    <gid><![CDATA[99595]]></gid>
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[familiar]]></title>
+    <question><![CDATA[How familiar are you with using chatbots in general?]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[6]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[1054934]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[784121]]></sid>
+    <gid><![CDATA[99598]]></gid>
+    <type><![CDATA[X]]></type>
+    <title><![CDATA[description]]></title>
+    <question><![CDATA[<div style="font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; padding: 20px; border: 1px solid #ccc; border-radius: 10px; background-color: #f9f9f9;">
+<p><strong>You are tasked with evaluating the quality of answers generated by a chatbot designed to assist users with questions related to Osnabrück University.</strong> Your feedback will help assess and improve the chatbot across several dimensions of quality.</p>
+
+<h3 style="margin-top: 20px;">Instructions</h3>
+
+<p style="margin-bottom: 10px;"><strong>System Setting:</strong></p>
+
+<ul>
+	<li style="margin: 5px 0px 10px;">The chatbot to be evaluated has the task of answering questions about Osnabrück University. If a question is not related to the university, the chatbot is instructed to politely decline.</li>
+	<li style="margin: 5px 0px 10px;">The chatbot's answers were generated on <strong>January 9, 2025.</strong></li>
+</ul>
+
+<p style="margin-bottom: 10px;margin: 5px 0 10px 0;">     Please take this into account when evaluating the answers.</p>
+
+<ol style="padding-left: 20px;">
+	<li style="margin-bottom: 10px;"><strong>Evaluation Dimensions:</strong>
+
+	<p style="margin: 5px 0 10px 0;">Rate the answer on the following dimensions using a scale of 1 to 5 (1 = Very Bad, 5 = Very Good):</p>
+
+	<ul style="list-style-type: disc; padding-left: 20px; margin: 5px 0;">
+		<li><strong>Hallucination:</strong> Refers to the presence of factually incorrect or unfaithful information in the answer. Any claim that cannot be verified using the provided context or widely known facts is considered a hallucination.
+
+		<ul>
+			<li>(1 = severe hallucination; multiple claims are incorrect, 5 = no hallucination; all claims are verifiable and correct).</li>
+		</ul>
+		</li>
+		<li><strong>Answer Accuracy:</strong> The degree to which an answer accurately addresses the user's question by providing <em>correct</em>, <em>complete</em>, and <em>relevant</em> information that matches the intent of the question. Factual accuracy (no hallucination) is necessary but not sufficient; the answer must also be accurate, comprehensive, and appropriate to the purpose of the question.
+		<ul>
+			<li>(1 = inaccurate; fails to answer the question, 5 = fully accurate; directly addresses the question comprehensively).</li>
+		</ul>
+		</li>
+		<li><strong>User Satisfaction:</strong> Reflects the user's subjective assessment of the answer's quality, focusing on the effectiveness of understanding the question, answering it, providing meaningful value, and leaving an overall positive impression.
+		<ul>
+			<li>(1 = very unsatisfactory; the answer is unhelpful or confusing, 5 = highly satisfactory; the answer provides significant value).</li>
+		</ul>
+		</li>
+		<li><strong>Coherence, Clarity, and Fluency:</strong> Evaluates the overall readability and presentation of the answer. A response that scores well in this dimension is logically structured, free of grammatical errors, easy to understand, and expressed in a natural, flowing manner.
+		<ul>
+			<li>(1 = incoherent or unclear; hard to follow, 5 = highly coherent and clear; easy to read and well-structured).</li>
+		</ul>
+		</li>
+		<li><strong>Context Quality:</strong> Assesses the relevance and completeness of the context (the listed links under "Context used") in supporting the answer. High-quality context is directly related to the user’s question and provides all necessary details for a correct and comprehensive response. If no context is provided, evaluate how its absence affects the quality of the answer.
+		<ul style="list-style-type: disc; padding-left: 20px; margin: 5px 0;">
+			<li><strong>With 'Context used':</strong>
+			<ul>
+				<li>Evaluate how well the provided context (links) aligns with the question and how effectively it supports the answer.</li>
+				<li>(1 = Context is irrelevant or insufficient; does not support the answer, 5 = Context is fully relevant and highly effective; perfectly supports the answer).</li>
+			</ul>
+			</li>
+			<li><strong>Absence of 'Context used':</strong>
+			<ul>
+				<li>Evaluate how the absence of context impacts the quality of the answer.</li>
+				<li>(1 = Severely impacts quality; context would have been essential, 5 = No impact on quality; context would haven been unnecessary).</li>
+			</ul>
+			</li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+	<li style="margin-bottom: 10px;"><strong>Best Practices:</strong>
+	<ul style="list-style-type: disc; padding-left: 20px; margin: 5px 0;">
+		<li><strong>Take your time:</strong> Carefully read the user’s question and any provided context before evaluating.</li>
+		<li><strong>Be Objective:</strong> Base your evaluations strictly on the provided content and criteria.</li>
+		<li><strong>Evaluate Independently:</strong> Look at each evaluation dimension independently and do not let one dimension influence the next.</li>
+		<li><strong>Handle Ambiguities Thoughtfully:</strong> If a question is unclear, evaluate based on the simplest and most logical interpretation.</li>
+	</ul>
+	</li>
+</ol>
+
+<p style="margin-top: 20px;"><strong>Thank you for your thoughtful evaluations—they are critical to the success of this project.</strong></p>
+</div>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1054934]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[784121]]></sid>
+    <gid><![CDATA[99598]]></gid>
+    <type><![CDATA[X]]></type>
+    <title><![CDATA[description]]></title>
+    <question><![CDATA[<div style="font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; padding: 20px; border: 1px solid #ccc; border-radius: 10px; background-color: #f9f9f9;">
+<p><strong>Sie sind beauftragt, die Qualität der Antworten eines Chatbots zu bewerten, der Nutzern bei Fragen zur Osnabrück Universität helfen soll.</strong> Ihr Feedback wird dazu beitragen, den Chatbot in mehreren Qualitätsdimensionen zu bewerten und zu verbessern.</p>
+
+<h3 style="margin-top: 20px;">Anweisungen</h3>
+
+<p style="margin-bottom: 10px;"><strong>Systemeinstellung:</strong></p>
+
+<ul>
+	<li style="margin: 5px 0px 10px;">Der zu bewertende Chatbot hat die Aufgabe, Fragen rund um die Osnabrück Universität zu beantworten. Sollte eine Frage nicht mit der Universität in Zusammenhang stehen, ist der Chatbot angewiesen, höflich abzulehnen.</li>
+	<li style="margin: 5px 0px 10px;">Die Antworten des Chatbots wurden am <strong>9. Januar 2025</strong> generiert.</li>
+</ul>
+
+<p style="margin-bottom: 10px;margin: 5px 0 10px 0;">     Bitte berücksichtigen Sie diese Vorgabe bei der Bewertung der Antworten.</p>
+
+<ol style="padding-left: 20px;">
+	<li style="margin-bottom: 10px;"><strong>Bewertungsdimensionen:</strong>
+
+	<p style="margin: 5px 0 10px 0;">Bewerten Sie die Antwort in den folgenden Dimensionen auf einer Skala von 1 bis 5 (1 = Sehr schlecht, 5 = Sehr gut):</p>
+
+	<ul style="list-style-type: disc; padding-left: 20px; margin: 5px 0;">
+		<li><strong>Halluzination:</strong> Bezieht sich auf die Präsenz von faktisch inkorrekten oder nicht zuverlässigen Informationen in der Antwort. Jede Aussage, die nicht mit dem bereitgestellten Kontext oder allgemein bekannten Fakten übereinstimmt, wird als Halluzination betrachtet.
+
+		<ul>
+			<li>(1 = starke Halluzination; mehrere Aussagen sind falsch, 5 = keine Halluzination; alle Aussagen sind überprüfbar und korrekt).</li>
+		</ul>
+		</li>
+		<li><strong>Antwortgenauigkeit:</strong> Das Maß, in dem eine Antwort die Frage des Nutzers präzise beantwortet, indem sie <em>korrekte</em>, <em>vollständige</em> und <em>relevante</em> Informationen liefert, die mit der Intention der Frage übereinstimmen. Faktische Korrektheit (keine Halluzination) ist notwendig, aber nicht ausreichend; die Antwort muss auch treffend, umfassend und passend zur Absicht der Frage sein.
+		<ul>
+			<li>(1 = ungenau; beantwortet die Frage nicht, 5 = sehr genau; beantwortet die Frage umfassend und direkt).</li>
+		</ul>
+		</li>
+		<li><strong>Nutzerzufriedenheit:</strong> Reflektiert die subjektive Bewertung des Nutzers zur Qualität der Antwort, wobei der Fokus auf der Effektivität liegt, die Frage zu verstehen, zu beantworten, sinnvollen Mehrwert zu liefern und insgesamt einen positiven Eindruck zu hinterlassen.
+		<ul>
+			<li>(1 = sehr unzufriedenstellend; die Antwort ist unhilfreich oder verwirrend, 5 = äußerst zufriedenstellend; die Antwort bietet erheblichen Mehrwert).</li>
+		</ul>
+		</li>
+		<li><strong>Zusammenhang, Klarheit und Sprachfluss:</strong> Bewertet die allgemeine Lesbarkeit und Präsentation der Antwort. Eine Antwort, die in dieser Dimension gut abschneidet, ist logisch strukturiert, frei von Grammatikfehlern, leicht verständlich und in einem natürlichen, flüssigen Stil ausgedrückt.
+		<ul>
+			<li>(1 = unzusammenhängend oder unklar; schwer nachvollziehbar, 5 = sehr zusammenhängend und klar; gut lesbar und logisch strukturiert).</li>
+		</ul>
+		</li>
+		<li><strong>Kontextqualität:</strong> Bewertet die Relevanz und Vollständigkeit des Kontexts (die unter "Verwendeter Kontext" aufgeführten Links) zur Unterstützung der Antwort. Hochwertiger Kontext steht in direktem Zusammenhang mit der Frage des Nutzers und liefert alle notwendigen Details für eine korrekte und umfassende Antwort. Wenn kein Kontext bereitgestellt wird, bewerten Sie, wie sich dessen Fehlen auf die Qualität der Antwort auswirkt.
+		<ul style="list-style-type: disc; padding-left: 20px; margin: 5px 0;">
+			<li><strong>Mit 'Verwendeter Kontext':</strong>
+			<ul>
+				<li>Bewerten Sie, wie gut der bereitgestellte Kontext (Links) mit der gestellten Frage in Verbindung steht und wie umfassend die Antwort unterstützt wird.</li>
+				<li>(1 = Kontext ist irrelevant oder unzureichend; unterstützt die Antwort nicht, 5 = Kontext ist vollständig und äußerst relevant; unterstützt die Antwort perfekt).</li>
+			</ul>
+			</li>
+			<li><strong>Fehlen von 'Verwendeter Kontext':</strong>
+			<ul>
+				<li>Bewerten Sie, wie sich das Fehlen eines Kontexts auf die Qualität der Antwort auswirkt.</li>
+				<li>(1 = beeinträchtigt die Qualität stark; Kontext wäre wesentlich gewesen, 5 = keine Auswirkung auf die Qualität; Kontext war nicht notwendig).</li>
+			</ul>
+			</li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+	<li style="margin-bottom: 10px;"><strong>Gute Verfahrensweisen:</strong>
+	<ul style="list-style-type: disc; padding-left: 20px; margin: 5px 0;">
+		<li><strong>Nehmen Sie sich Zeit:</strong> Lesen Sie die Frage des Nutzers und den bereitgestellten Kontext sorgfältig durch, bevor Sie bewerten.</li>
+		<li><strong>Seien Sie objektiv:</strong> Basieren Sie Ihre Bewertungen ausschließlich auf die bereitgestellten Inhalten und Kriterien.</li>
+		<li><strong>Bewerten Sie unabhängig:</strong> Sehen Sie sich jede Bewertungsdimension unabhängig an und lassen Sie die eine Dimension nicht die nächste beeinflussen.</li>
+		<li><strong>Gehen Sie bedacht mit Unklarheiten um:</strong> Falls eine Frage unklar ist, bewerten Sie basierend auf der einfachsten und logischsten Interpretation.</li>
+	</ul>
+	</li>
+</ol>
+
+<p style="margin-top: 20px;"><strong>Vielen Dank für Ihre sorgfältigen Bewertungen – sie sind entscheidend für den Erfolg dieses Projekts.</strong></p>
+</div>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1054937]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[784121]]></sid>
+    <gid><![CDATA[99600]]></gid>
+    <type><![CDATA[F]]></type>
+    <title><![CDATA[ans1]]></title>
+    <question/>
+    <preg/>
+    <help><![CDATA[<p><strong>Gute Verfahrensweisen:</strong></p>
+
+<ul>
+	<li><b>Nehmen Sie sich Zeit:</b> Lesen Sie die Frage des Nutzers und den bereitgestellten Kontext sorgfältig durch, bevor Sie bewerten.</li>
+	<li><b>Seien Sie objektiv:</b> Basieren Sie Ihre Bewertungen ausschließlich auf den bereitgestellten Inhalten und Kriterien.</li>
+	<li><strong>Bewerten Sie unabhängig:</strong> Sehen Sie sich jede Bewertungsdimension unabhängig an und lassen Sie die eine Dimension nicht die nächste beeinflussen.</li>
+	<li><b>Gehen Sie bedacht mit Unklarheiten um:</b> Falls eine Frage unklar ist, bewerten Sie basierend auf der einfachsten und logischsten Interpretation.</li>
+</ul>
+
+<hr />
+<p><strong>Zur Erinnerung:</strong></p>
+
+<p>Der zu bewertende Chatbot hat die Aufgabe, Fragen rund um die Osnabrück Universität zu beantworten. Sollte eine Frage nicht mit der Universität in Zusammenhang stehen, ist der Chatbot angewiesen, höflich abzulehnen. Bitte berücksichtigen Sie diese Vorgabe bei der Bewertung der Antworten.</p>
+
+<hr />
+<ul style="list-style-type: disc; padding-left: 20px; margin: 5px 0;">
+	<li><strong>Halluzination:</strong> Bezieht sich auf die Präsenz von faktisch inkorrekten oder nicht zuverlässigen Informationen in der Antwort. Jede Aussage, die nicht mit dem bereitgestellten Kontext oder allgemein bekannten Fakten übereinstimmt, wird als Halluzination betrachtet.
+
+	<ul>
+		<li>(1 = starke Halluzination; mehrere Aussagen sind falsch, 5 = keine Halluzination; alle Aussagen sind überprüfbar und korrekt).</li>
+	</ul>
+	</li>
+	<li><strong>Antwortgenauigkeit:</strong> Das Maß, in dem eine Antwort die Frage des Nutzers präzise beantwortet, indem sie <em>korrekte</em>, <em>vollständige</em> und <em>relevante</em> Informationen liefert, die mit der Intention der Frage übereinstimmen. Faktische Korrektheit (keine Halluzination) ist notwendig, aber nicht ausreichend; die Antwort muss auch treffend, umfassend und passend zur Absicht der Frage sein.
+	<ul>
+		<li>(1 = ungenau; beantwortet die Frage nicht, 5 = sehr genau; beantwortet die Frage umfassend und direkt).</li>
+	</ul>
+	</li>
+	<li><strong>Nutzerzufriedenheit:</strong> Reflektiert die subjektive Bewertung des Nutzers zur Qualität der Antwort, wobei der Fokus auf der Effektivität liegt, die Frage zu verstehen, zu beantworten, sinnvollen Mehrwert zu liefern und insgesamt einen positiven Eindruck zu hinterlassen.
+	<ul>
+		<li>(1 = sehr unzufriedenstellend; die Antwort ist unhilfreich oder verwirrend, 5 = äußerst zufriedenstellend; die Antwort bietet erheblichen Mehrwert).</li>
+	</ul>
+	</li>
+	<li><strong>Zusammenhang, Klarheit und Sprachfluss:</strong> Bewertet die allgemeine Lesbarkeit und Präsentation der Antwort. Eine Antwort, die in dieser Dimension gut abschneidet, ist logisch strukturiert, frei von Grammatikfehlern, leicht verständlich und in einem natürlichen, flüssigen Stil ausgedrückt.
+	<ul>
+		<li>(1 = unzusammenhängend oder unklar; schwer nachvollziehbar, 5 = sehr zusammenhängend und klar; gut lesbar und logisch strukturiert).</li>
+	</ul>
+	</li>
+	<li><strong>Kontextqualität:</strong> Bewertet die Relevanz und Vollständigkeit des Kontexts (die oben unter "Verwendeter Kontext" aufgeführten Links) zur Unterstützung der Antwort. Hochwertiger Kontext steht in direktem Zusammenhang mit der Frage des Nutzers und liefert alle notwendigen Details für eine korrekte und umfassende Antwort. Wenn kein Kontext bereitgestellt wird, bewerten Sie, wie sich dessen Fehlen auf die Qualität der Antwort auswirkt.
+	<ul style="list-style-type: disc; padding-left: 20px; margin: 5px 0;">
+		<li><strong>Mit 'Verwendeter Kontext':</strong>
+		<ul>
+			<li>Bewerten Sie, wie gut der bereitgestellte Kontext (Links) mit der gestellten Frage in Verbindung steht und wie umfassend die Antwort unterstützt wird.</li>
+			<li>(1 = Kontext ist irrelevant oder unzureichend; unterstützt die Antwort nicht, 5 = Kontext ist vollständig und äußerst relevant; unterstützt die Antwort perfekt).</li>
+		</ul>
+		</li>
+		<li><strong>Fehlen von 'Verwendeter Kontext':</strong>
+		<ul>
+			<li>Bewerten Sie, wie sich das Fehlen eines Kontexts auf die Qualität der Antwort auswirkt.</li>
+			<li>(1 = beeinträchtigt die Qualität stark; Kontext wäre wesentlich gewesen, 5 = keine Auswirkung auf die Qualität; Kontext war nicht notwendig).</li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+</ul>
+]]></help>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1054937]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[784121]]></sid>
+    <gid><![CDATA[99600]]></gid>
+    <type><![CDATA[F]]></type>
+    <title><![CDATA[ans1]]></title>
+    <question/>
+    <preg/>
+    <help><![CDATA[<p><b>Best Practices:</b></p>
+
+<ul>
+	<li><b>Take your time</b>: Carefully read the user’s question and any provided context before evaluating.</li>
+	<li><b>Be Objective</b>: Base your evaluations strictly on the provided content and criteria.</li>
+	<li><strong>Evaluate independently:</strong> Look at each evaluation dimension independently and do not let one dimension influence the next.</li>
+	<li><b>Handle Ambiguities Thoughtfully</b>: If a question is unclear, evaluate based on the simplest and most logical interpretation.</li>
+</ul>
+
+<hr />
+<p><b>Reminder:</b></p>
+
+<p>The chatbot to be evaluated has the task of answering questions about Osnabrück University. If a question is not related to the university, the chatbot is instructed to politely decline. Please take this into account when evaluating the answers.</p>
+
+<hr />
+<ul style="list-style-type: disc; padding-left: 20px; margin: 5px 0;">
+	<li><strong>Hallucination:</strong> Refers to the presence of factually incorrect or unfaithful information in the answer. Any claim that cannot be verified using the provided context or widely known facts is considered a hallucination.
+
+	<ul>
+		<li>(1 = severe hallucination; multiple claims are incorrect, 5 = no hallucination; all claims are verifiable and correct).</li>
+	</ul>
+	</li>
+	<li><strong>Answer Accuracy:</strong> The degree to which an answer accurately addresses the user's question by providing <em>correct</em>, <em>complete</em>, and <em>relevant</em> information that matches the intent of the question. Factual accuracy (no hallucination) is necessary but not sufficient; the answer must also be accurate, comprehensive, and appropriate to the purpose of the question.
+	<ul>
+		<li>(1 = inaccurate; fails to answer the question, 5 = fully accurate; directly addresses the question comprehensively).</li>
+	</ul>
+	</li>
+	<li><strong>User Satisfaction:</strong> Reflects the user's subjective assessment of the answer's quality, focusing on the effectiveness of understanding the question, answering it, providing meaningful value, and leaving an overall positive impression.
+	<ul>
+		<li>(1 = very unsatisfactory; the answer is unhelpful or confusing, 5 = highly satisfactory; the answer provides significant value).</li>
+	</ul>
+	</li>
+	<li><strong>Coherence, Clarity, and Fluency:</strong> Evaluates the overall readability and presentation of the answer. A response that scores well in this dimension is logically structured, free of grammatical errors, easy to understand, and expressed in a natural, flowing manner.
+	<ul>
+		<li>(1 = incoherent or unclear; hard to follow, 5 = highly coherent and clear; easy to read and well-structured).</li>
+	</ul>
+	</li>
+	<li><strong>Context Quality:</strong> Assesses the relevance and completeness of the context (the listed links above under "Context used") in supporting the answer. High-quality context is directly related to the user’s question and provides all necessary details for a correct and comprehensive response. If no context is provided, evaluate how its absence affects the quality of the answer.
+	<ul style="list-style-type: disc; padding-left: 20px; margin: 5px 0;">
+		<li><strong>With 'Context used':</strong>
+		<ul>
+			<li>Evaluate how well the provided context (links) aligns with the question and how effectively it supports the answer.</li>
+			<li>(1 = Context is irrelevant or insufficient; does not support the answer, 5 = Context is fully relevant and highly effective; perfectly supports the answer).</li>
+		</ul>
+		</li>
+		<li><strong>Absence of 'Context used':</strong>
+		<ul>
+			<li>Evaluate how the absence of context impacts the quality of the answer.</li>
+			<li>(1 = Severely impacts quality; context would have been essential, 5 = No impact on quality; context would have been unnecessary).</li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+</ul>
+]]></help>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1055881]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[784121]]></sid>
+    <gid><![CDATA[99784]]></gid>
+    <type><![CDATA[*]]></type>
+    <title><![CDATA[randomgroup]]></title>
+    <question><![CDATA[{if(is_empty(randomgroup), rand(1, 10), randomgroup)}]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance/>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1055881]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[784121]]></sid>
+    <gid><![CDATA[99784]]></gid>
+    <type><![CDATA[*]]></type>
+    <title><![CDATA[randomgroup]]></title>
+    <question/>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance/>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1059622]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[784121]]></sid>
+    <gid><![CDATA[99600]]></gid>
+    <type><![CDATA[*]]></type>
+    <title><![CDATA[qid1]]></title>
+    <question><![CDATA[PLACEHOLDER_ID_1]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1059622]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[784121]]></sid>
+    <gid><![CDATA[99600]]></gid>
+    <type><![CDATA[*]]></type>
+    <title><![CDATA[qid1]]></title>
+    <question/>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1059641]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[784121]]></sid>
+    <gid><![CDATA[99600]]></gid>
+    <type><![CDATA[*]]></type>
+    <title><![CDATA[langq1]]></title>
+    <question><![CDATA[PLACEHOLDER_LANG_1]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[1059641]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[784121]]></sid>
+    <gid><![CDATA[99600]]></gid>
+    <type><![CDATA[*]]></type>
+    <title><![CDATA[langq1]]></title>
+    <question/>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[1060903]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[784121]]></sid>
+    <gid><![CDATA[99784]]></gid>
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[langprof]]></title>
+    <question><![CDATA[Können Sie sowohl Englisch als auch Deutsch verstehen?]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[1060903]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[784121]]></sid>
+    <gid><![CDATA[99784]]></gid>
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[langprof]]></title>
+    <question><![CDATA[Can you understand both English and German?]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[1060920]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[784121]]></sid>
+    <gid><![CDATA[99600]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[comment1]]></title>
+    <question><![CDATA[Falls Sie zusätzliche Bemerkungen oder Beobachtungen zu diesem Fragen-Antwort-Paar haben, können Sie diese hier eintragen. Dieser Abschnitt ist optional.]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[4]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[1060920]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[784121]]></sid>
+    <gid><![CDATA[99600]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[comment1]]></title>
+    <question><![CDATA[If you have any additional remarks or observations regarding this question-answer pair, please feel free to write them here. This section is optional.]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[4]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+  </rows>
+ </questions>
+ <subquestions>
+  <fields>
+   <fieldname>qid</fieldname>
+   <fieldname>parent_qid</fieldname>
+   <fieldname>sid</fieldname>
+   <fieldname>gid</fieldname>
+   <fieldname>type</fieldname>
+   <fieldname>title</fieldname>
+   <fieldname>question</fieldname>
+   <fieldname>preg</fieldname>
+   <fieldname>help</fieldname>
+   <fieldname>other</fieldname>
+   <fieldname>mandatory</fieldname>
+   <fieldname>question_order</fieldname>
+   <fieldname>language</fieldname>
+   <fieldname>scale_id</fieldname>
+   <fieldname>same_default</fieldname>
+   <fieldname>relevance</fieldname>
+   <fieldname>modulename</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <qid><![CDATA[1054958]]></qid>
+    <parent_qid><![CDATA[1054937]]></parent_qid>
+    <sid><![CDATA[784121]]></sid>
+    <gid><![CDATA[99600]]></gid>
+    <type><![CDATA[F]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[Halluzination:]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1054958]]></qid>
+    <parent_qid><![CDATA[1054937]]></parent_qid>
+    <sid><![CDATA[784121]]></sid>
+    <gid><![CDATA[99600]]></gid>
+    <type><![CDATA[F]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[Hallucination:]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1054977]]></qid>
+    <parent_qid><![CDATA[1054937]]></parent_qid>
+    <sid><![CDATA[784121]]></sid>
+    <gid><![CDATA[99600]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ002]]></title>
+    <question><![CDATA[Antwortgenauigkeit:]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1054977]]></qid>
+    <parent_qid><![CDATA[1054937]]></parent_qid>
+    <sid><![CDATA[784121]]></sid>
+    <gid><![CDATA[99600]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ002]]></title>
+    <question><![CDATA[Answer Accuracy:]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1054978]]></qid>
+    <parent_qid><![CDATA[1054937]]></parent_qid>
+    <sid><![CDATA[784121]]></sid>
+    <gid><![CDATA[99600]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ003]]></title>
+    <question><![CDATA[Nutzerzufriedenheit:]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1054978]]></qid>
+    <parent_qid><![CDATA[1054937]]></parent_qid>
+    <sid><![CDATA[784121]]></sid>
+    <gid><![CDATA[99600]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ003]]></title>
+    <question><![CDATA[User Satisfaction:]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1054979]]></qid>
+    <parent_qid><![CDATA[1054937]]></parent_qid>
+    <sid><![CDATA[784121]]></sid>
+    <gid><![CDATA[99600]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ004]]></title>
+    <question><![CDATA[Zusammenhang, Klarheit und Sprachfluss:]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[4]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1054979]]></qid>
+    <parent_qid><![CDATA[1054937]]></parent_qid>
+    <sid><![CDATA[784121]]></sid>
+    <gid><![CDATA[99600]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ004]]></title>
+    <question><![CDATA[Coherence, Clarity, and Fluency:]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[4]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1054981]]></qid>
+    <parent_qid><![CDATA[1054937]]></parent_qid>
+    <sid><![CDATA[784121]]></sid>
+    <gid><![CDATA[99600]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ005]]></title>
+    <question><![CDATA[Kontextqualität:]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[5]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1054981]]></qid>
+    <parent_qid><![CDATA[1054937]]></parent_qid>
+    <sid><![CDATA[784121]]></sid>
+    <gid><![CDATA[99600]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ005]]></title>
+    <question><![CDATA[Context Quality:]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[5]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1054982]]></qid>
+    <parent_qid><![CDATA[1054937]]></parent_qid>
+    <sid><![CDATA[784121]]></sid>
+    <gid><![CDATA[99600]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ006]]></title>
+    <question><![CDATA[Gesamteindruck:]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[6]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1054982]]></qid>
+    <parent_qid><![CDATA[1054937]]></parent_qid>
+    <sid><![CDATA[784121]]></sid>
+    <gid><![CDATA[99600]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ006]]></title>
+    <question><![CDATA[Overall Impression:]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[6]]></question_order>
+    <language><![CDATA[en]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+  </rows>
+ </subquestions>
+ <question_attributes>
+  <fields>
+   <fieldname>qid</fieldname>
+   <fieldname>attribute</fieldname>
+   <fieldname>value</fieldname>
+   <fieldname>language</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <qid><![CDATA[1054910]]></qid>
+    <attribute><![CDATA[other_replace_text]]></attribute>
+    <value><![CDATA[anderes, und zwar:]]></value>
+    <language><![CDATA[de]]></language>
+   </row>
+   <row>
+    <qid><![CDATA[1054910]]></qid>
+    <attribute><![CDATA[other_replace_text]]></attribute>
+    <value><![CDATA[other, namely:]]></value>
+    <language><![CDATA[en]]></language>
+   </row>
+   <row>
+    <qid><![CDATA[1055881]]></qid>
+    <attribute><![CDATA[hidden]]></attribute>
+    <value><![CDATA[1]]></value>
+   </row>
+   <row>
+    <qid><![CDATA[1059622]]></qid>
+    <attribute><![CDATA[hidden]]></attribute>
+    <value><![CDATA[1]]></value>
+   </row>
+   <row>
+    <qid><![CDATA[1059641]]></qid>
+    <attribute><![CDATA[hidden]]></attribute>
+    <value><![CDATA[1]]></value>
+   </row>
+  </rows>
+ </question_attributes>
+ <quota>
+  <fields>
+   <fieldname>id</fieldname>
+   <fieldname>sid</fieldname>
+   <fieldname>name</fieldname>
+   <fieldname>qlimit</fieldname>
+   <fieldname>action</fieldname>
+   <fieldname>active</fieldname>
+   <fieldname>autoload_url</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <id><![CDATA[1623]]></id>
+    <sid><![CDATA[784121]]></sid>
+    <name><![CDATA[languageprof]]></name>
+    <qlimit><![CDATA[0]]></qlimit>
+    <action><![CDATA[2]]></action>
+    <active><![CDATA[1]]></active>
+    <autoload_url><![CDATA[0]]></autoload_url>
+   </row>
+  </rows>
+ </quota>
+ <quota_members>
+  <fields>
+   <fieldname>id</fieldname>
+   <fieldname>sid</fieldname>
+   <fieldname>qid</fieldname>
+   <fieldname>quota_id</fieldname>
+   <fieldname>code</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <id><![CDATA[2368]]></id>
+    <sid><![CDATA[784121]]></sid>
+    <qid><![CDATA[1060903]]></qid>
+    <quota_id><![CDATA[1623]]></quota_id>
+    <code><![CDATA[A2]]></code>
+   </row>
+  </rows>
+ </quota_members>
+ <quota_languagesettings>
+  <fields>
+   <fieldname>quotals_id</fieldname>
+   <fieldname>quotals_quota_id</fieldname>
+   <fieldname>quotals_language</fieldname>
+   <fieldname>quotals_name</fieldname>
+   <fieldname>quotals_message</fieldname>
+   <fieldname>quotals_url</fieldname>
+   <fieldname>quotals_urldescrip</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <quotals_id><![CDATA[1732]]></quotals_id>
+    <quotals_quota_id><![CDATA[1623]]></quotals_quota_id>
+    <quotals_language><![CDATA[en]]></quotals_language>
+    <quotals_message><![CDATA[Thank you for your interest in participating in this survey. Unfortunately, the survey requires proficiency in both German and English to proceed, as the questions and answers may be presented in either language. We appreciate your time and understanding.]]></quotals_message>
+    <quotals_url/>
+    <quotals_urldescrip/>
+   </row>
+   <row>
+    <quotals_id><![CDATA[1731]]></quotals_id>
+    <quotals_quota_id><![CDATA[1623]]></quotals_quota_id>
+    <quotals_language><![CDATA[de]]></quotals_language>
+    <quotals_message><![CDATA[Vielen Dank für Ihr Interesse an dieser Umfrage. Leider setzt die Teilnahme voraus, dass Sie sowohl Deutsch als auch Englisch verstehen, da die Fragen und Antworten in beiden Sprachen vorkommen können. Wir danken Ihnen für Ihr Verständnis.]]></quotals_message>
+    <quotals_url/>
+    <quotals_urldescrip/>
+   </row>
+  </rows>
+ </quota_languagesettings>
+ <surveys>
+  <fields>
+   <fieldname>sid</fieldname>
+   <fieldname>gsid</fieldname>
+   <fieldname>admin</fieldname>
+   <fieldname>expires</fieldname>
+   <fieldname>startdate</fieldname>
+   <fieldname>adminemail</fieldname>
+   <fieldname>anonymized</fieldname>
+   <fieldname>faxto</fieldname>
+   <fieldname>format</fieldname>
+   <fieldname>savetimings</fieldname>
+   <fieldname>template</fieldname>
+   <fieldname>language</fieldname>
+   <fieldname>additional_languages</fieldname>
+   <fieldname>datestamp</fieldname>
+   <fieldname>usecookie</fieldname>
+   <fieldname>allowregister</fieldname>
+   <fieldname>allowsave</fieldname>
+   <fieldname>autonumber_start</fieldname>
+   <fieldname>autoredirect</fieldname>
+   <fieldname>allowprev</fieldname>
+   <fieldname>printanswers</fieldname>
+   <fieldname>ipaddr</fieldname>
+   <fieldname>refurl</fieldname>
+   <fieldname>showsurveypolicynotice</fieldname>
+   <fieldname>publicstatistics</fieldname>
+   <fieldname>publicgraphs</fieldname>
+   <fieldname>listpublic</fieldname>
+   <fieldname>htmlemail</fieldname>
+   <fieldname>sendconfirmation</fieldname>
+   <fieldname>tokenanswerspersistence</fieldname>
+   <fieldname>assessments</fieldname>
+   <fieldname>usecaptcha</fieldname>
+   <fieldname>usetokens</fieldname>
+   <fieldname>bounce_email</fieldname>
+   <fieldname>attributedescriptions</fieldname>
+   <fieldname>emailresponseto</fieldname>
+   <fieldname>emailnotificationto</fieldname>
+   <fieldname>tokenlength</fieldname>
+   <fieldname>showxquestions</fieldname>
+   <fieldname>showgroupinfo</fieldname>
+   <fieldname>shownoanswer</fieldname>
+   <fieldname>showqnumcode</fieldname>
+   <fieldname>bouncetime</fieldname>
+   <fieldname>bounceprocessing</fieldname>
+   <fieldname>bounceaccounttype</fieldname>
+   <fieldname>bounceaccounthost</fieldname>
+   <fieldname>bounceaccountpass</fieldname>
+   <fieldname>bounceaccountencryption</fieldname>
+   <fieldname>bounceaccountuser</fieldname>
+   <fieldname>showwelcome</fieldname>
+   <fieldname>showprogress</fieldname>
+   <fieldname>questionindex</fieldname>
+   <fieldname>navigationdelay</fieldname>
+   <fieldname>nokeyboard</fieldname>
+   <fieldname>alloweditaftercompletion</fieldname>
+   <fieldname>googleanalyticsstyle</fieldname>
+   <fieldname>googleanalyticsapikey</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <sid><![CDATA[784121]]></sid>
+    <gsid><![CDATA[1]]></gsid>
+    <admin><![CDATA[Marvin Wurch]]></admin>
+    <adminemail><![CDATA[mwurch@uni-osnabrueck.de]]></adminemail>
+    <anonymized><![CDATA[Y]]></anonymized>
+    <faxto/>
+    <format><![CDATA[G]]></format>
+    <savetimings><![CDATA[Y]]></savetimings>
+    <template><![CDATA[vanilla]]></template>
+    <language><![CDATA[de]]></language>
+    <additional_languages><![CDATA[en]]></additional_languages>
+    <datestamp><![CDATA[N]]></datestamp>
+    <usecookie><![CDATA[N]]></usecookie>
+    <allowregister><![CDATA[N]]></allowregister>
+    <allowsave><![CDATA[N]]></allowsave>
+    <autonumber_start><![CDATA[5]]></autonumber_start>
+    <autoredirect><![CDATA[N]]></autoredirect>
+    <allowprev><![CDATA[Y]]></allowprev>
+    <printanswers><![CDATA[N]]></printanswers>
+    <ipaddr><![CDATA[N]]></ipaddr>
+    <refurl><![CDATA[N]]></refurl>
+    <showsurveypolicynotice><![CDATA[2]]></showsurveypolicynotice>
+    <publicstatistics><![CDATA[N]]></publicstatistics>
+    <publicgraphs><![CDATA[N]]></publicgraphs>
+    <listpublic><![CDATA[N]]></listpublic>
+    <htmlemail><![CDATA[Y]]></htmlemail>
+    <sendconfirmation><![CDATA[Y]]></sendconfirmation>
+    <tokenanswerspersistence><![CDATA[N]]></tokenanswerspersistence>
+    <assessments><![CDATA[N]]></assessments>
+    <usecaptcha><![CDATA[N]]></usecaptcha>
+    <usetokens><![CDATA[N]]></usetokens>
+    <bounce_email><![CDATA[mwurch@uni-osnabrueck.de]]></bounce_email>
+    <emailresponseto/>
+    <emailnotificationto/>
+    <tokenlength><![CDATA[15]]></tokenlength>
+    <showxquestions><![CDATA[N]]></showxquestions>
+    <showgroupinfo><![CDATA[B]]></showgroupinfo>
+    <shownoanswer><![CDATA[Y]]></shownoanswer>
+    <showqnumcode><![CDATA[X]]></showqnumcode>
+    <bounceprocessing><![CDATA[N]]></bounceprocessing>
+    <showwelcome><![CDATA[Y]]></showwelcome>
+    <showprogress><![CDATA[Y]]></showprogress>
+    <questionindex><![CDATA[0]]></questionindex>
+    <navigationdelay><![CDATA[0]]></navigationdelay>
+    <nokeyboard><![CDATA[N]]></nokeyboard>
+    <alloweditaftercompletion><![CDATA[N]]></alloweditaftercompletion>
+    <googleanalyticsstyle/>
+    <googleanalyticsapikey/>
+   </row>
+  </rows>
+ </surveys>
+ <surveys_languagesettings>
+  <fields>
+   <fieldname>surveyls_survey_id</fieldname>
+   <fieldname>surveyls_language</fieldname>
+   <fieldname>surveyls_title</fieldname>
+   <fieldname>surveyls_description</fieldname>
+   <fieldname>surveyls_welcometext</fieldname>
+   <fieldname>surveyls_endtext</fieldname>
+   <fieldname>surveyls_policy_notice</fieldname>
+   <fieldname>surveyls_policy_error</fieldname>
+   <fieldname>surveyls_policy_notice_label</fieldname>
+   <fieldname>surveyls_url</fieldname>
+   <fieldname>surveyls_urldescription</fieldname>
+   <fieldname>surveyls_email_invite_subj</fieldname>
+   <fieldname>surveyls_email_invite</fieldname>
+   <fieldname>surveyls_email_remind_subj</fieldname>
+   <fieldname>surveyls_email_remind</fieldname>
+   <fieldname>surveyls_email_register_subj</fieldname>
+   <fieldname>surveyls_email_register</fieldname>
+   <fieldname>surveyls_email_confirm_subj</fieldname>
+   <fieldname>surveyls_email_confirm</fieldname>
+   <fieldname>surveyls_dateformat</fieldname>
+   <fieldname>surveyls_attributecaptions</fieldname>
+   <fieldname>email_admin_notification_subj</fieldname>
+   <fieldname>email_admin_notification</fieldname>
+   <fieldname>email_admin_responses_subj</fieldname>
+   <fieldname>email_admin_responses</fieldname>
+   <fieldname>surveyls_numberformat</fieldname>
+   <fieldname>attachments</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <surveyls_survey_id><![CDATA[784121]]></surveyls_survey_id>
+    <surveyls_language><![CDATA[de]]></surveyls_language>
+    <surveyls_title><![CDATA[Chatbot der Universität Osnabrück – Bewertung]]></surveyls_title>
+    <surveyls_description/>
+    <surveyls_welcometext><![CDATA[<p><strong>Willkommen zur Umfrage!</strong></p>
+
+<p>Vielen Dank, dass Sie an meiner Umfrage teilnehmen, die darauf abzielt, chatbot-generierte Antworten in verschiedenen Dimensionen zu bewerten. Ihr Beitrag ist von großem Wert und wird zur Bewertung sowie zur möglichen Verbesserung eines von virtUOS entwickelten Chatbots beitragen, der zukünftig auf der Website der Universität und anderen Diensten eingesetzt werden soll.</p>
+
+<p>Diese Umfrage führt Sie durch eine Reihe von Fragen-Antwort Paaren, in denen Sie die Qualität der bereitgestellten Antworten anhand vorher definierter Kriterien bewerten.</p>
+
+<hr />
+<p><strong>Allgemeine Hinweise:</strong></p>
+
+<ul>
+	<li>Die Umfrage ist auch auf mobilen Geräten möglich, jedoch empfiehlt sich zur besseren Übersichtlichkeit die Nutzung eines Desktop-PCs, insbesondere für die Bewertung des Kontextes.</li>
+	<li>Sie werden 6-7 Fragen-Antwort Paare bewerten. Diese stammen aus dem gesamten Datensatz und können daher sowohl in Deutsch als auch in Englisch verfasst sein.</li>
+</ul>
+
+<hr />
+<p><strong>Bitte beachten Sie:</strong></p>
+
+<ul>
+	<li>Das Ausfüllen der Umfrage dauert ungefähr 30 Minuten.</li>
+	<li>Ihre Teilnahme ist vollständig freiwillig und Ihre Antworten bleiben anonym.</li>
+	<li>Sie haben die Möglichkeit, VP-Stunden zu erhalten oder an einer Verlosung teilzunehmen.</li>
+</ul>
+
+<p>Wenn Sie während der Umfrage auf Probleme stoßen oder Fragen haben, können Sie mich jederzeit unter <strong>mwurch@uni-osnabrueck.de</strong> kontaktieren.</p>
+
+<hr />
+<p><strong>Hinweis zur Verlosung und den VP-Stunden:</strong></p>
+
+<p>Am Ende der Umfrage haben Sie die Wahl, entweder 0,5 VP-Stunden zu erhalten, an der Verlosung teilzunehmen oder keine der beiden Optionen zu wählen. Alle Teilnehmer der Verlosung nehmen an der Ziehung von <strong>4 x 15 € Gutscheinkarten</strong> von <a href="https://www.wunschgutschein.de/" target="_blank">https://www.wunschgutschein.de/</a> teil. Die Teilnahme ist freiwillig, ab einem Alter von 18 Jahren möglich und erfolgt am Ende der Umfrage. Die E-Mail-Adresse wird ausschließlich genutzt, um die Gewinner zu benachrichtigen oder die VP-Stunden beim Prüfungsamt zu registrieren, und spätestens am 20.01.2025 nach Abschluss der Verlosung gelöscht. Weitere Details finden Sie in den Teilnahmebedingungen in der Datenschutzerklärung.</p>
+
+<hr />
+<p>Vielen Dank für Ihre wertvolle Zeit und Ihr Feedback. Lassen Sie uns beginnen.</p>
+]]></surveyls_welcometext>
+    <surveyls_endtext><![CDATA[<p>Vielen Dank für Ihre Teilnahme!</p>
+
+<p>Ich schätze Ihre Zeit und Mühe bei der Beantwortung dieser Umfrage sehr. Ihre Antworten werden uns helfen, den Chatbot zu evaluieren und zu verbessern. Ziel ist es, ein präzises und verlässliches Tool zu entwickeln, das zukünftig auf der Universitätswebsite veröffentlicht wird, um Fragen zur Universität zu beantworten.</p>
+
+<p>Wenn Sie Fragen haben, können Sie mich gerne unter mwurch@uni-osnabrueck.de kontaktieren.</p>
+
+<p>Nochmals vielen Dank für Ihren Beitrag zu dieser Bachelorarbeit!</p>
+]]></surveyls_endtext>
+    <surveyls_policy_notice><![CDATA[<p><b>Zweck der Umfrage:</b><br />Diese Umfrage wird im Rahmen einer Bachelorarbeit an der Universität Osnabrück durchgeführt. Ziel ist es, die Genauigkeit eines Chatbots zu bewerten, der Informationen über die Universität bereitstellen soll. Die erhobenen Daten werden ausschließlich für Forschungszwecke und potenziell für zukünftige Verbesserungen des Chatbots verwendet.</p>
+
+<p><b>Kontaktinformationen:</b><br />Wenn Sie Fragen oder Bedenken bezüglich der Umfrage haben, wenden Sie sich bitte an Marvin Wurch unter mwurch@uni-osnabrueck.de.</p>
+
+<p><b>Anonymität der Umfrage:</b><br />Diese Umfrage ist anonym. Eine Identifizierung der Teilnehmenden ist weder beabsichtigt noch möglich. Die erhobenen Daten haben keinen direkten Personenbezug. In Veröffentlichungen, die aus dieser Forschung hervorgehen, werden nur aggregierte Daten präsentiert. <strong>Bitte geben Sie in den Freitextfeldern keine personenbezogenen Informationen an </strong>(abgesehen von der Email-Adresse für die Versuchspersonenstunden bzw. des Gewinnspiels).</p>
+
+<p>Die Teilnahme an dieser anonymen Umfrage ist freiwillig und basiert auf<strong> Artikel 6(1)(a) DSGVO (Einwilligung)</strong>. Sie können Ihre Einwilligung jederzeit widerrufen. Sie können die Umfrage jederzeit beenden und löschen; diese Option finden Sie oben rechts.</p>
+
+<ul>
+</ul>
+
+<p><strong>Informationen zum Gewinnspiel:</strong></p>
+
+<ul>
+	<li>Teilnahmeberechtigt sind Personen ab 18 Jahren.</li>
+	<li>Die Teilnahme ist freiwillig und nicht an weitere Bedingungen geknüpft.</li>
+	<li>Ihre E-Mail-Adresse wird ausschließlich für die Benachrichtigung der Gewinnerinnen und Gewinner verwendet und nach Abschluss der Umfrage (spätestens am 20.01.2025) gelöscht.</li>
+	<li>Verlost werden 4x15€ digitale Gutscheine von "https://www.wunschgutschein.de/".</li>
+	<li>Die Gewinner*innen werden nach dem Zufallsprinzip ermittelt. Der Rechtsweg ist ausgeschlossen.</li>
+	<li>Die E-Mail-Adressen werden nach Abschluss des Gewinnspiels gelöscht.</li>
+	<li>Keine Barauszahlung der Gewinne.</li>
+</ul>
+
+<p><b>Datenschutzmaßnahmen:</b></p>
+
+<ul>
+	<li>Alle erhobenen Daten werden sicher gespeichert und vertraulich behandelt.</li>
+	<li>Die Daten werden nur für die oben genannten Zwecke verwendet und nicht an unbefugte Dritte weitergegeben.</li>
+</ul>
+
+<p>Mit Ihrer Teilnahme an dieser Umfrage bestätigen Sie, dass Sie die oben genannten Bedingungen verstanden haben und ihnen zustimmen.</p>
+]]></surveyls_policy_notice>
+    <surveyls_policy_error><![CDATA[Bitte prüfen und bestätigen Sie die Datenschutzhinweise.]]></surveyls_policy_error>
+    <surveyls_policy_notice_label><![CDATA[Akzeptieren Sie die Datenschutzhinweise]]></surveyls_policy_notice_label>
+    <surveyls_url/>
+    <surveyls_urldescription/>
+    <surveyls_email_invite_subj><![CDATA[Einladung zu einer Umfrage]]></surveyls_email_invite_subj>
+    <surveyls_email_invite><![CDATA[Hallo {FIRSTNAME},<br />
+<br />
+Hiermit möchten wir Sie zu einer Umfrage einladen.<br />
+<br />
+Der Titel der Umfrage ist <br />
+'{SURVEYNAME}'<br />
+<br />
+'{SURVEYDESCRIPTION}'<br />
+<br />
+Um an dieser Umfrage teilzunehmen, klicken Sie bitte auf den unten stehenden Link.<br />
+<br />
+Mit freundlichen Grüßen,<br />
+<br />
+{ADMINNAME} ({ADMINEMAIL})<br />
+<br />
+----------------------------------------------<br />
+Klicken Sie hier um die Umfrage zu starten:<br />
+{SURVEYURL}<br />
+<br />
+Wenn Sie an diese Umfrage nicht teilnehmen und keine weiteren Erinnerungen erhalten möchten, klicken Sie bitte auf den folgenden Link:<br />
+{OPTOUTURL}<br />
+<br />
+Wenn Sie geblockt sind, jedoch wieder teilnehmen und weitere Einladungen erhalten möchten, klicken Sie bitte auf den folgenden Link:<br />
+{OPTINURL}]]></surveyls_email_invite>
+    <surveyls_email_remind_subj><![CDATA[Erinnerung an die Teilnahme an einer Umfrage]]></surveyls_email_remind_subj>
+    <surveyls_email_remind><![CDATA[Hallo {FIRSTNAME},<br />
+<br />
+Vor kurzem haben wir Sie zu einer Umfrage eingeladen.<br />
+<br />
+Zu unserem Bedauern haben wir bemerkt, dass Sie die Umfrage noch nicht ausgefüllt haben. Wir möchten Ihnen mitteilen, dass die Umfrage noch aktiv ist und würden uns freuen, wenn Sie teilnehmen könnten.<br />
+<br />
+Der Titel der Umfrage ist <br />
+'{SURVEYNAME}'<br />
+<br />
+'{SURVEYDESCRIPTION}'<br />
+<br />
+Um an dieser Umfrage teilzunehmen, klicken Sie bitte auf den unten stehenden Link.<br />
+<br />
+ Mit freundlichen Grüßen,<br />
+<br />
+{ADMINNAME} ({ADMINEMAIL})<br />
+<br />
+----------------------------------------------<br />
+Klicken Sie hier um die Umfrage zu starten:<br />
+{SURVEYURL}<br />
+<br />
+Wenn Sie an diese Umfrage nicht teilnehmen und keine weiteren Erinnerungen erhalten möchten, klicken Sie bitte auf den folgenden Link:<br />
+{OPTOUTURL}]]></surveyls_email_remind>
+    <surveyls_email_register_subj><![CDATA[Registrierungsbestätigung für Teilnahmeumfrage]]></surveyls_email_register_subj>
+    <surveyls_email_register><![CDATA[Hallo {FIRSTNAME},<br />
+<br />
+Sie (oder jemand, der Ihre E-Mail benutzt hat) haben sich für eine Umfrage mit dem Titel {SURVEYNAME} angemeldet.<br />
+<br />
+Um an dieser Umfrage teilzunehmen, klicken Sie bitte auf den folgenden Link.<br />
+<br />
+{SURVEYURL}<br />
+<br />
+Wenn Sie irgendwelche Fragen zu dieser Umfrage haben oder wenn Sie sich _nicht_ für diese Umfrage angemeldet haben und sie glauben, dass Ihnen diese E-Mail irrtümlicherweise zugeschickt worden ist, kontaktieren Sie bitte {ADMINNAME} unter {ADMINEMAIL}.]]></surveyls_email_register>
+    <surveyls_email_confirm_subj><![CDATA[Bestätigung für die Teilnahme an unserer Umfrage]]></surveyls_email_confirm_subj>
+    <surveyls_email_confirm><![CDATA[Hallo {FIRSTNAME},<br />
+<br />
+Vielen Dank für die Teilnahme an der Umfrage mit dem Titel {SURVEYNAME}. Ihre Antworten wurden bei uns gespeichert.<br />
+<br />
+Wenn Sie irgendwelche Fragen zu dieser E-Mail haben, kontaktieren Sie bitte {ADMINNAME} unter {ADMINEMAIL}.<br />
+<br />
+Mit freundlichen Grüßen,<br />
+<br />
+{ADMINNAME}]]></surveyls_email_confirm>
+    <surveyls_dateformat><![CDATA[1]]></surveyls_dateformat>
+    <email_admin_notification_subj><![CDATA[Antwortabsendung für Umfrage {SURVEYNAME}]]></email_admin_notification_subj>
+    <email_admin_notification><![CDATA[Hallo,<br />
+<br />
+Eine neue Antwort wurde für die Umfrage '{SURVEYNAME}' abgegeben.<br />
+<br />
+Klicken Sie auf den folgenden Link um den Antwortdatensatz anzusehen:<br />
+{VIEWRESPONSEURL}<br />
+<br />
+Klicken Sie auf den folgenden Link um den Antwortdatensatz zu bearbeiten:<br />
+{EDITRESPONSEURL}<br />
+<br />
+Um die Statistik zu sehen, klicken Sie hier:<br />
+{STATISTICSURL}]]></email_admin_notification>
+    <email_admin_responses_subj><![CDATA[Antwortabsendung für Umfrage {SURVEYNAME} mit Ergebnissen]]></email_admin_responses_subj>
+    <email_admin_responses><![CDATA[Hallo,<br />
+<br />
+Eine neue Antwort wurde für die Umfrage '{SURVEYNAME}' abgegeben.<br />
+<br />
+Klicken Sie auf den folgenden Link um den Antwortdatensatz anzusehen:<br />
+{VIEWRESPONSEURL}<br />
+<br />
+Klicken Sie auf den folgenden Link um den Antwortdatensatz zu bearbeiten:<br />
+{EDITRESPONSEURL}<br />
+<br />
+Um die Statistik zu sehen, klicken Sie hier:<br />
+{STATISTICSURL}<br />
+<br />
+<br />
+Die folgenden Antworten wurden vom Teilnehmer gegeben:<br />
+{ANSWERTABLE}]]></email_admin_responses>
+    <surveyls_numberformat><![CDATA[0]]></surveyls_numberformat>
+   </row>
+   <row>
+    <surveyls_survey_id><![CDATA[784121]]></surveyls_survey_id>
+    <surveyls_language><![CDATA[en]]></surveyls_language>
+    <surveyls_title><![CDATA[Chatbot of the University of Osnabrück - Evaluation]]></surveyls_title>
+    <surveyls_description/>
+    <surveyls_welcometext><![CDATA[<p><strong>Welcome to the Survey!</strong></p>
+
+<p>Thank you for participating in my survey, which aims to evaluate chatbot-generated answers across various dimensions. Your input is valuable and will contribute to the evaluation and potential improvement of a chatbot developed by virtUOS for future use on the University Website and other services.</p>
+
+<p>This survey will guide you through a series of question-answer pairs where you will assess the quality of provided answers based on criteria defined prior to the evaluation.</p>
+
+<hr />
+<p><strong>General information:</strong></p>
+
+<ul>
+	<li>The survey can also be conducted on mobile devices, but it is recommended to use a desktop PC for better clarity, especially for evaluating the context.</li>
+	<li>You will rate 6-7 question-answer pairs. These come from the entire data set and can therefore be written in both German and English.</li>
+</ul>
+
+<hr />
+<p><strong>Please note:</strong></p>
+
+<ul>
+	<li>Completing the survey will take approximately 30 minutes.</li>
+	<li>Your participation is entirely voluntary and your responses will remain anonymous.</li>
+	<li>You will be eligible to earn VP hours or participate in a lottery.</li>
+</ul>
+
+<p>If you encounter any issues during the survey or have questions, feel free to contact me at <a href="mailto:mwurch@uni-osnabrueck.de">mwurch@uni-osnabrueck.de</a>.</p>
+
+<hr />
+<p><strong>Note on the lottery and VP hours:</strong></p>
+
+<p>At the end of the survey, you can choose to receive 0.5 VP hours, participate in the lottery, or opt for neither. Participants in the lottery will enter a draw to win 4 x €15 credit vouchers from <a href="https://www.wunschgutschein.de/" target="_blank">Wunschgutschein</a>. Participation is voluntary, limited to those aged 18 and above, and takes place at the end of the survey. The provided email address will only be used to notify winners or register VP hours with the examination office and will be deleted no later than 20.01.2025, following the completion of the draw. Further details can be found in the conditions of participation within the privacy policy.</p>
+
+<hr />
+<p>Thank you for your valuable time and feedback. Let’s get started.</p>
+]]></surveyls_welcometext>
+    <surveyls_endtext><![CDATA[<p>Thank You for Participating!</p>
+
+<p>I sincerely appreciate your time and effort in completing this survey. Your feedback is vital for evaluating and improving the chatbot, with the ultimate goal of creating an accurate and reliable tool for the University website to assist in answering questions about the university.</p>
+
+<p>If you have any questions or further feedback, please feel free to contact me at mwurch@uni-osnabrueck.de.</p>
+
+<p>Once again, thank you for your valuable contribution to this thesis</p>
+]]></surveyls_endtext>
+    <surveyls_policy_notice><![CDATA[<p><b>Purpose of the Survey:</b><br />This survey is being conducted as part of a bachelor’s thesis at Osnabrück University. The goal is to evaluate the accuracy of a chatbot designed to provide information about the university. The data collected will be used solely for research purposes and potentially for future improvements to the chatbot.</p>
+
+<p><b>Contact Information:</b><br />If you have any questions or concerns regarding the survey, please contact Marvin Wurch at mwurch@uni-osnabrueck.de.</p>
+
+<p><b>Anonymity of the Survey:</b><br />This survey is anonymous. Identifying participants is neither intended nor possible. The collected data will not have any direct personal references. In publications resulting from this research, only aggregated data will be presented. <strong>Please do not provide any personal information in the free-text fields</strong> (except for the email address required for VP hours or the lottery).</p>
+
+<p>Participation in this anonymous survey is voluntary and is based on <strong>Article 6(1)(a) GDPR (Consent)</strong>. You may withdraw your consent at any time. You can exit and delete the survey at any time; this option is available in the top right corner.</p>
+
+<p><strong>Information on the Lottery:</strong></p>
+
+<ul>
+	<li>Participants must be 18 years or older.</li>
+	<li>Participation is voluntary and not tied to any additional conditions.</li>
+	<li>Your email address will only be used to notify the winners and will be deleted after the survey ends (no later than January 20, 2025).</li>
+	<li>Prizes consist of 4x €15 digital vouchers from "https://www.wunschgutschein.de/".</li>
+	<li>The winners will be selected randomly. The decision is final, and legal recourse is excluded.</li>
+	<li>Email addresses will be deleted after the lottery is concluded.</li>
+	<li>No cash payout of the prizes.</li>
+</ul>
+
+<p><b>Data Protection Measures:</b></p>
+
+<ul>
+	<li>All collected data will be securely stored and treated confidentially.</li>
+	<li>The data will only be used for the purposes mentioned above and will not be shared with unauthorized third parties.</li>
+</ul>
+
+<p>By participating in this survey, you confirm that you have understood and agree to the conditions outlined above.</p>
+]]></surveyls_policy_notice>
+    <surveyls_policy_error><![CDATA[Please check and confirm the data protection information.]]></surveyls_policy_error>
+    <surveyls_policy_notice_label><![CDATA[Accept the privacy policy]]></surveyls_policy_notice_label>
+    <surveyls_url/>
+    <surveyls_urldescription/>
+    <surveyls_email_invite_subj><![CDATA[Invitation to participate in a survey]]></surveyls_email_invite_subj>
+    <surveyls_email_invite><![CDATA[Dear {FIRSTNAME},<br />
+<br />
+You have been invited to participate in a survey.<br />
+<br />
+The survey is titled:<br />
+"{SURVEYNAME}"<br />
+<br />
+"{SURVEYDESCRIPTION}"<br />
+<br />
+To participate, please click on the link below.<br />
+<br />
+Sincerely,<br />
+<br />
+{ADMINNAME} ({ADMINEMAIL})<br />
+<br />
+----------------------------------------------<br />
+Click here to do the survey:<br />
+{SURVEYURL}<br />
+<br />
+If you do not want to participate in this survey and don't want to receive any more invitations please click the following link:<br />
+{OPTOUTURL}<br />
+<br />
+If you are blacklisted but want to participate in this survey and want to receive invitations please click the following link:<br />
+{OPTINURL}]]></surveyls_email_invite>
+    <surveyls_email_remind_subj><![CDATA[Reminder to participate in a survey]]></surveyls_email_remind_subj>
+    <surveyls_email_remind><![CDATA[Dear {FIRSTNAME},<br />
+<br />
+Recently we invited you to participate in a survey.<br />
+<br />
+We note that you have not yet completed the survey, and wish to remind you that the survey is still available should you wish to take part.<br />
+<br />
+The survey is titled:<br />
+"{SURVEYNAME}"<br />
+<br />
+"{SURVEYDESCRIPTION}"<br />
+<br />
+To participate, please click on the link below.<br />
+<br />
+Sincerely,<br />
+<br />
+{ADMINNAME} ({ADMINEMAIL})<br />
+<br />
+----------------------------------------------<br />
+Click here to do the survey:<br />
+{SURVEYURL}<br />
+<br />
+If you do not want to participate in this survey and don't want to receive any more invitations please click the following link:<br />
+{OPTOUTURL}]]></surveyls_email_remind>
+    <surveyls_email_register_subj><![CDATA[Survey registration confirmation]]></surveyls_email_register_subj>
+    <surveyls_email_register><![CDATA[Dear {FIRSTNAME},<br />
+<br />
+You, or someone using your email address, have registered to participate in an online survey titled {SURVEYNAME}.<br />
+<br />
+To complete this survey, click on the following URL:<br />
+<br />
+{SURVEYURL}<br />
+<br />
+If you have any questions about this survey, or if you did not register to participate and believe this email is in error, please contact {ADMINNAME} at {ADMINEMAIL}.]]></surveyls_email_register>
+    <surveyls_email_confirm_subj><![CDATA[Confirmation of your participation in our survey]]></surveyls_email_confirm_subj>
+    <surveyls_email_confirm><![CDATA[Dear {FIRSTNAME},<br />
+<br />
+This email is to confirm that you have completed the survey titled {SURVEYNAME} and your response has been saved. Thank you for participating.<br />
+<br />
+If you have any further questions about this email, please contact {ADMINNAME} on {ADMINEMAIL}.<br />
+<br />
+Sincerely,<br />
+<br />
+{ADMINNAME}]]></surveyls_email_confirm>
+    <surveyls_dateformat><![CDATA[9]]></surveyls_dateformat>
+    <email_admin_notification_subj><![CDATA[Response submission for survey {SURVEYNAME}]]></email_admin_notification_subj>
+    <email_admin_notification><![CDATA[Hello,<br />
+<br />
+A new response was submitted for your survey '{SURVEYNAME}'.<br />
+<br />
+Click the following link to see the individual response:<br />
+{VIEWRESPONSEURL}<br />
+<br />
+Click the following link to edit the individual response:<br />
+{EDITRESPONSEURL}<br />
+<br />
+View statistics by clicking here:<br />
+{STATISTICSURL}]]></email_admin_notification>
+    <email_admin_responses_subj><![CDATA[Response submission for survey {SURVEYNAME} with results]]></email_admin_responses_subj>
+    <email_admin_responses><![CDATA[Hello,<br />
+<br />
+A new response was submitted for your survey '{SURVEYNAME}'.<br />
+<br />
+Click the following link to see the individual response:<br />
+{VIEWRESPONSEURL}<br />
+<br />
+Click the following link to edit the individual response:<br />
+{EDITRESPONSEURL}<br />
+<br />
+View statistics by clicking here:<br />
+{STATISTICSURL}<br />
+<br />
+<br />
+The following answers were given by the participant:<br />
+{ANSWERTABLE}]]></email_admin_responses>
+    <surveyls_numberformat><![CDATA[0]]></surveyls_numberformat>
+   </row>
+  </rows>
+ </surveys_languagesettings>
+ <themes>
+  <theme>
+   <sid>784121</sid>
+   <template_name>vanilla</template_name>
+   <config>
+    <options>inherit</options>
+   </config>
+  </theme>
+ </themes>
+ <themes_inherited>
+  <theme>
+   <sid>784121</sid>
+   <template_name>vanilla</template_name>
+   <config>
+    <options>
+     <animatebody>off</animatebody>
+     <hideprivacyinfo>off</hideprivacyinfo>
+     <container>on</container>
+     <bodyanimation>fadeInRight</bodyanimation>
+     <brandlogo>on</brandlogo>
+     <brandlogofile>./files/logo.png</brandlogofile>
+     <font>noto</font>
+     <showpopups>1</showpopups>
+     <fixnumauto>off</fixnumauto>
+    </options>
+   </config>
+  </theme>
+ </themes_inherited>
+</document>
