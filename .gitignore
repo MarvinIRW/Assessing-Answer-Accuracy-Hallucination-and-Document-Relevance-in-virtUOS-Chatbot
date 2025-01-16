@@ -360,6 +360,7 @@ db.png
 # data
 data/sensitive/
 bleurt/
+testing/
 
 geckodriver
 
